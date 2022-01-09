@@ -94,10 +94,13 @@ hr {
   width: 30%;
 }
 
-.help-paragraph {
-  width: 50%;
-  margin: auto 330px auto 330px;
+.contact-me {
+  text-align: center;
+}
 
+.help-paragraph {
+  margin: 0 auto 0 auto;
+  width: 50%;
 }
 
 .footer-link {
