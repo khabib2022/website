@@ -94,17 +94,18 @@ hr {
   width: 30%;
 }
 
+.help-paragraph {
+  width: 50%;
+  margin: auto 330px auto 330px;
+
+}
+
 .footer-link {
   padding: 20px 20px;
 }
 
 .end-point {
   padding-top: 20px;
-}
-
-.help-paragraph {
-  width: 50%;
-  margin: 20px auto 20px auto;
 }
 
 .btn {
